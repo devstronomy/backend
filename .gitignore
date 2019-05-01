@@ -1,4 +1,14 @@
+# IntelliJ Idea metadata
+*.iml
+*.ipr
+*.iws
+.idea
+
+# misc
+.DS_STORE
+
+# Gradle and Java
+/.gradle
 /build
 /out
 
-/.gradle
